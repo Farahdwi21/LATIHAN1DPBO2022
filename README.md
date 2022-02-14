@@ -5,7 +5,7 @@
 
 
 ## Penjelasan Program
-### saya membuat program mengenai daftar team sepak bola dengan menggunakan 4 bahasa
+Saya membuat program mengenai daftar team sepak bola dengan menggunakan 4 bahasa
 yaitu, c++, java, php, dan python.
 
 didalam program yang dibuat, saya menggunakan class TeamSepakBola
